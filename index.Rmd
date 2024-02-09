@@ -8,8 +8,6 @@ output:
     theme: yeti
 ---
 
-![/Orlando_di_Lasso.jpg]
-
 >Orlando brings vibrations in the form of bass adequate to the season, stanky grooves and melodic slices.     
 
 ## Music
